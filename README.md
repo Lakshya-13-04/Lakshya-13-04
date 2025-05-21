@@ -14,6 +14,8 @@
 
 💳 Credit Card Fraud Detection
 
+🧾 Census Income Prediction
+
 ✈️ Flight Price Prediction using Artificial Neural Networks
 
 🐱🐶 Image Classification of Cats and Dogs using CNN
